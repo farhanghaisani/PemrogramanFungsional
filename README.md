@@ -1,3 +1,3 @@
 # PemrogramanFungsional
 
-Matakuliah Semester 5
+Mata Kuliah Semester 5
